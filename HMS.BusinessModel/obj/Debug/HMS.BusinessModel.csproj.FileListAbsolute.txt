@@ -1,0 +1,5 @@
+G:\Project Source\HMS\HMS.BusinessModel\bin\Debug\Model.HMS.dll
+G:\Project Source\HMS\HMS.BusinessModel\bin\Debug\Model.HMS.pdb
+G:\Project Source\HMS\HMS.BusinessModel\obj\Debug\HMS.BusinessModel.csproj.CoreCompileInputs.cache
+G:\Project Source\HMS\HMS.BusinessModel\obj\Debug\Model.HMS.dll
+G:\Project Source\HMS\HMS.BusinessModel\obj\Debug\Model.HMS.pdb

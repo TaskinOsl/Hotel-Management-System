@@ -1,0 +1,107 @@
+﻿
+
+@using Model.HMS.Entity
+@using Model.HMS.ViewModel
+@model IEnumerable<Model.HMS.ViewModel.MenuViewModel>
+
+@{
+    ViewBag.Title = "GrantPermissionTo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<style type="text/css">
+    input[type=checkbox] {
+        height: 20px;
+        width: 70px;
+    }
+</style>
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <div class="row">
+            <div class="col-md-3"><span><input id="allCheck" class="big" type="checkbox" /> <strong> Select All  </strong></span> </div>
+            <div class="col-md-3">
+                User Name : @if (ViewBag.UserName != null)
+                {
+                    <strong class="headLincolor">@ViewBag.UserName</strong>
+                    <input type="hidden" id="username" name="username" value=@ViewBag.UserId />
+                }
+            </div>
+            
+            @*<div class="col-md-3">
+                User Role : @if (ViewBag.UserRole != null)
+                {<strong class="headLincolor">@ViewBag.UserRole</strong> }
+            </div>*@
+
+        </div>
+    </div>
+   
+</div>
+
+@helper ShowTree(IEnumerable<MenuViewModel> subCategory)
+{
+    <ul style="margin-top: 15px; z-index: auto">
+
+        @foreach (var sc in subCategory)
+        {
+            bool isFound = false;
+            foreach (Menu permittedMenu in ViewBag.ExistingPermittedMenu)
+            {
+                if (sc.Id == permittedMenu.Id)
+                {
+                    <li id="@sc.Id">
+
+                        <input class="checkItem" type="checkbox" id='@sc.Id' name='@sc.Id' value='@sc.Id' checked="checked" onclick="javascript: MenuPermission.SetCheckedProp(this.name);" />
+
+
+                        <a href="@Url.Action(@sc.ActionName,sc.ControllerName)">@sc.Name</a>
+
+                        @if (sc.Menus.Any())
+                        {
+                            @ShowTree(sc.Menus)
+                        }
+                    </li>
+                        isFound = true;
+                        break;
+                }
+
+            }
+            if (!isFound)
+            {
+                <li id="@sc.Id">
+
+                    <input class="checkItem" type="checkbox" id='@sc.Id' name='@sc.Id' value='@sc.Id' onclick="javascript: MenuPermission.SetCheckedProp(this.name);" />
+                    <a href="@sc.ControllerName/@sc.ActionName"> @sc.Name</a>
+
+                    @if (sc.Menus.Any())
+                    {
+                        @ShowTree(sc.Menus)
+                    }
+                </li>
+            }
+            }
+    </ul>
+}
+
+<ul id="nav">
+    @foreach (MenuViewModel menuViewModel in Model)
+    {
+        <li id="@menuViewModel.Id">
+
+            <input class="" type="checkbox" id='@menuViewModel.Id' name='@menuViewModel.Id' value='@menuViewModel.Id' checked="checked" disabled="disabled" />
+            <a href=""> @menuViewModel.Name</a>
+        </li>
+        @ShowTree(menuViewModel.Menus)
+    }
+
+
+</ul>
+
+<input class="btn btn-primary col-md-offset-6" type="button" id="btnSaveMenuPermission" name="btnSaveMenuPermission" value="Save" onclick="MenuPermission.SaveMenuPermission()" />
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+<script src="~/Scripts/Menu.js"></script>
+}

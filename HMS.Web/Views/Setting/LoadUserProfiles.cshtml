@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Model.HMS.Entity.UserProfile>
+
+@{
+    ViewBag.Title = "LoadUserProfiles";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <p>
+            @Html.ActionLink("Create New", "register", "Account")
+        </p>
+    </div>
+    <div class="panel-body">
+        <table class="table table-bordered table-hover table-striped">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.NickName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AspNetUserId)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NickName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AspNetUserId)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Permission", "GrantPermissionTo", new { id = item.Id }) |
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+
+

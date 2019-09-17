@@ -1,0 +1,18 @@
+E:\Small Software Developed by DremersHome\Joblanes\JobLanes.BusinessModel\bin\Debug\Model.JobLanes.dll
+E:\Small Software Developed by DremersHome\Joblanes\JobLanes.BusinessModel\bin\Debug\Model.JobLanes.pdb
+E:\Small Software Developed by DremersHome\Joblanes\JobLanes.BusinessModel\obj\Debug\Model.JobLanes.dll
+E:\Small Software Developed by DremersHome\Joblanes\JobLanes.BusinessModel\obj\Debug\Model.JobLanes.pdb
+D:\My Work\Joblanes\Joblanes\JobLanes.BusinessModel\bin\Debug\Model.JobLanes.dll
+D:\My Work\Joblanes\Joblanes\JobLanes.BusinessModel\bin\Debug\Model.JobLanes.pdb
+D:\My Work\Joblanes\Joblanes\JobLanes.BusinessModel\obj\Debug\Model.JobLanes.dll
+D:\My Work\Joblanes\Joblanes\JobLanes.BusinessModel\obj\Debug\Model.JobLanes.pdb
+D:\My Work\Joblanes\Joblanes\JobLanes.BusinessModel\obj\Debug\JobLanes.BusinessModel.csprojResolveAssemblyReference.cache
+E:\Freelancing\Joblanes\Joblanes\JobLanes.BusinessModel\bin\Debug\Model.JobLanes.dll
+E:\Freelancing\Joblanes\Joblanes\JobLanes.BusinessModel\bin\Debug\Model.JobLanes.pdb
+E:\Freelancing\Joblanes\Joblanes\JobLanes.BusinessModel\obj\Debug\Model.JobLanes.dll
+E:\Freelancing\Joblanes\Joblanes\JobLanes.BusinessModel\obj\Debug\Model.JobLanes.pdb
+E:\Freelancing\Ticketing System\Joblanes\JobLanes.BusinessModel\bin\Debug\Model.JobLanes.dll
+E:\Freelancing\Ticketing System\Joblanes\JobLanes.BusinessModel\bin\Debug\Model.JobLanes.pdb
+E:\Freelancing\Ticketing System\Joblanes\JobLanes.BusinessModel\obj\Debug\JobLanes.BusinessModel.csprojResolveAssemblyReference.cache
+E:\Freelancing\Ticketing System\Joblanes\JobLanes.BusinessModel\obj\Debug\Model.JobLanes.dll
+E:\Freelancing\Ticketing System\Joblanes\JobLanes.BusinessModel\obj\Debug\Model.JobLanes.pdb

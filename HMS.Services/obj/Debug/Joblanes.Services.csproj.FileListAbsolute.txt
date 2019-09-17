@@ -1,0 +1,72 @@
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\Services.Joblanes.dll
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\Services.Joblanes.pdb
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\Dao.Joblanes.dll
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\FluentNHibernate.dll
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\Iesi.Collections.dll
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\Model.JobLanes.dll
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\NHibernate.dll
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\Dao.Joblanes.pdb
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\Model.JobLanes.pdb
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\FluentNHibernate.pdb
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\FluentNHibernate.xml
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\Iesi.Collections.xml
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\NHibernate.xml
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\obj\Debug\Joblanes.Services.csprojResolveAssemblyReference.cache
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\obj\Debug\Services.Joblanes.dll
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\obj\Debug\Services.Joblanes.pdb
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\Services.Joblanes.dll
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\Services.Joblanes.pdb
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\Dao.Joblanes.dll
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\FluentNHibernate.dll
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\Iesi.Collections.dll
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\Model.JobLanes.dll
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\NHibernate.dll
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\Dao.Joblanes.pdb
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\Model.JobLanes.pdb
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\FluentNHibernate.pdb
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\FluentNHibernate.xml
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\Iesi.Collections.xml
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\NHibernate.xml
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\obj\Debug\Joblanes.Services.csprojResolveAssemblyReference.cache
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\obj\Debug\Services.Joblanes.dll
+D:\My Work\Joblanes\Joblanes\Services.Joblanes\obj\Debug\Services.Joblanes.pdb
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\Services.Joblanes.dll
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\Services.Joblanes.pdb
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\Dao.Joblanes.dll
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\FluentNHibernate.dll
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\Iesi.Collections.dll
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\Model.JobLanes.dll
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\NHibernate.dll
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\Model.JobLanes.pdb
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\Dao.Joblanes.pdb
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\FluentNHibernate.pdb
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\FluentNHibernate.xml
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\Iesi.Collections.xml
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\NHibernate.xml
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\obj\Debug\Joblanes.Services.csprojResolveAssemblyReference.cache
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\obj\Debug\Services.Joblanes.dll
+E:\Freelancing\Joblanes\Joblanes\Joblanes.Services\obj\Debug\Services.Joblanes.pdb
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\Services.Joblanes.dll
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\Services.Joblanes.pdb
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\Dao.Joblanes.dll
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\FluentNHibernate.dll
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\Iesi.Collections.dll
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\Model.JobLanes.dll
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\NHibernate.dll
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\Model.JobLanes.pdb
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\Dao.Joblanes.pdb
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\FluentNHibernate.pdb
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\FluentNHibernate.xml
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\Iesi.Collections.xml
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\NHibernate.xml
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\obj\Debug\Joblanes.Services.csprojResolveAssemblyReference.cache
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\obj\Debug\Services.Joblanes.dll
+E:\Freelancing\Ticketing System\Joblanes\Joblanes.Services\obj\Debug\Services.Joblanes.pdb

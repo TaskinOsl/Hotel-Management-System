@@ -1,0 +1,1 @@
+D:\PROJECTS\PestControl\ASPNetMVCExtendingIdentity2Roles\obj\Release\PestControl.Web.csprojResolveAssemblyReference.cache

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E0995F79-504B-4E02-8FE2-C3118FCA6158}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dao.HMS</RootNamespace>
+    <AssemblyName>Dao.HMS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FluentNHibernate">
+      <HintPath>..\packages\FluentNHibernate.2.0.3.0\lib\net40\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\packages\Iesi.Collections.4.0.1.4000\lib\net40\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.2.1\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\packages\NHibernate.4.0.4.4000\lib\net40\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\BaseDao.cs" />
+    <Compile Include="AdditionalServiceDao.cs" />
+    <Compile Include="BookingDao.cs" />
+    <Compile Include="BookingDetailDao.cs" />
+    <Compile Include="CustomerDao.cs" />
+    <Compile Include="GlobalSettingDao.cs" />
+    <Compile Include="HotelDao.cs" />
+    <Compile Include="RoomDao.cs" />
+    <Compile Include="RoomFacilityDao.cs" />
+    <Compile Include="RoomHistoryDao.cs" />
+    <Compile Include="RoomRegisterDetailDao.cs" />
+    <Compile Include="RoomTypeDao.cs" />
+    <Compile Include="RoomRegisterDao.cs" />
+    <Compile Include="Mapping\AdditionalServiceMap.cs" />
+    <Compile Include="Mapping\Base\BaseMap.cs" />
+    <Compile Include="Mapping\BookingDetailMap.cs" />
+    <Compile Include="Mapping\BookingMap.cs" />
+    <Compile Include="Mapping\CityMap.cs" />
+    <Compile Include="Mapping\CountryMap.cs" />
+    <Compile Include="Mapping\CustomerMap.cs" />
+    <Compile Include="Mapping\GlobalSettingMap.cs" />
+    <Compile Include="Mapping\HotelMap.cs" />
+    <Compile Include="Mapping\MenuMap.cs" />
+    <Compile Include="Mapping\RoomfacilityMap.cs" />
+    <Compile Include="Mapping\RoomHistoryMap.cs" />
+    <Compile Include="Mapping\RoomMap.cs" />
+    <Compile Include="Mapping\RoomRegisterDetailMap.cs" />
+    <Compile Include="Mapping\RoomRegisterMap.cs" />
+    <Compile Include="Mapping\RoomTypeMap.cs" />
+    <Compile Include="Mapping\StateMap.cs" />
+    <Compile Include="Mapping\UserProfileMap.cs" />
+    <Compile Include="MenuDao.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserDao.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HMS.BusinessModel\HMS.BusinessModel.csproj">
+      <Project>{748D970F-6BC4-4053-AC68-5C945502A3AF}</Project>
+      <Name>HMS.BusinessModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

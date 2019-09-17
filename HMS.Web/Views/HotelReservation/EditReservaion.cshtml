@@ -1,0 +1,255 @@
+﻿
+@model Model.HMS.ViewModel.ReservationVm
+
+@{
+    ViewBag.Title = "EditReservaion";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="panel panel-default" id="formId">
+    <div class="panel-heading"><h4> Room Reservation</h4> </div>
+    <div class="panel-body">
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+                @Html.ValidationSummary(true)
+
+                <div class="">
+                    <h4> Customer Information </h4>
+                    <hr />
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.FirstName, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control ", @placeholder = "Enter First Name" } })
+                                @Html.ValidationMessageFor(model => model.FirstName)
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.ContactNumber, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.ContactNumber, new { htmlAttributes = new { @class = "form-control numbersOnly", @placeholder = "Enter Contact No" } })
+                                @Html.ValidationMessageFor(model => model.ContactNumber)
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Nid, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Nid, new { htmlAttributes = new { @class = "form-control numbersOnly", @placeholder = "Enter NID" } })
+                                @Html.ValidationMessageFor(model => model.Nid)
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Passport, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Passport, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter Passport No" } })
+                                @Html.ValidationMessageFor(model => model.Passport)
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Remarks, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Remarks, new { htmlAttributes = new { @class = "form-control ", @placeholder = "Enter Special Request" } })
+                                @Html.ValidationMessageFor(model => model.Remarks)
+                            </div>
+                        </div>
+
+
+                        <hr />
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.LastName, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control ", @placeholder = "Enter Last Name" } })
+                                @Html.ValidationMessageFor(model => model.LastName)
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Address, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @class = "form-control ", @placeholder = "Enter Address" } })
+                                @Html.ValidationMessageFor(model => model.Address)
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Nationality, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Nationality, new { htmlAttributes = new { @class = "form-control ", @placeholder = "Enter Nationality" } })
+                                @Html.ValidationMessageFor(model => model.Nationality)
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Email, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control ", @placeholder = "Enter Email", @type = "email" } })
+                                @Html.ValidationMessageFor(model => model.Email)
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Dob, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Dob, new { htmlAttributes = new { @class = "form-control form_datetime", @placeholder = "Date Of Birth", @readonly = "readonly" } })
+                                @Html.ValidationMessageFor(model => model.Dob)
+                            </div>
+                        </div>
+
+                        <hr />
+                    </div>
+                </div>
+                <div class="">
+                    <h4> Reservation Information</h4>
+                    <hr />
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.NoOfAdult, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.NoOfAdult, new { htmlAttributes = new { @class = "form-control numbersOnly", @placeholder = "Enter No of adult" } })
+                                @Html.ValidationMessageFor(model => model.NoOfAdult)
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.CheckinDate, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.CheckinDate, new { htmlAttributes = new { @class = "form-control form_datetime", @placeholder = "Enter Checkin Date", @readonly = "readonly" } })
+                                @Html.ValidationMessageFor(model => model.CheckinDate)
+                            </div>
+                        </div>
+                        <hr />
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.NoOfChild, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.NoOfChild, new { htmlAttributes = new { @class = "form-control numbersOnly", @placeholder = "Enter No Of Child" } })
+                                @Html.ValidationMessageFor(model => model.NoOfChild)
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.CheckoutDate, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.CheckoutDate, new { htmlAttributes = new { @class = "form-control form_datetime", @placeholder = "Enter Checkout Date", @readonly = "readonly" } })
+                                @Html.ValidationMessageFor(model => model.CheckoutDate)
+                            </div>
+                        </div>
+                        <hr />
+                    </div>
+                </div>
+                <div class="">
+
+                    <table class="table table-bordered table-hover table-striped">
+                        <tbody>
+                            @foreach (Room room in Model.Rooms)
+                            {
+                                <tr>
+                                    <td>@room.Roomno</td>
+                                    <td>@room.Roomtype.Name</td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                    <h4>Room Information</h4>
+                    <hr />
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.RoomTypes, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.DropDownListFor(x => x.RoomTypes, (IEnumerable<SelectListItem>)ViewBag.roomTypes, "Select Room Types", new { @class = "form-control" })
+                                @Html.ValidationMessageFor(model => model.RoomTypes)
+                            </div>
+                        </div>
+                        <hr />
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="control-label col-md-2"> Room Booking</label>
+                            <div class="col-md-10">
+                                <input type="button" id="roomBookBtn" value="Room Booking" class="btn btn-primary" />
+
+                                @*@Html.DropDownListFor(x => x.RoomTypes, (IEnumerable<SelectListItem>)ViewBag.roomTypes, "Select Room Types", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.RoomTypes)*@
+                            </div>
+                        </div>
+                        <hr />
+                    </div>
+                </div>
+                <div class="">
+                    <h4>Payment Information</h4>
+                    <hr />
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.BillingType, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.DropDownListFor(model => model.BillingType, (IEnumerable<SelectListItem>)ViewBag.billingTypes, "Please Select Billing type", new { @class = "form-control ", @placeholder = "Enter Billing Type" })
+                                @Html.ValidationMessageFor(model => model.BillingType)
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.AdvanceAmount, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.AdvanceAmount, new { htmlAttributes = new { @class = "form-control numbersOnly", @placeholder = "Enter Advance Amount" } })
+                                @Html.ValidationMessageFor(model => model.AdvanceAmount)
+                            </div>
+                        </div>
+                        <hr />
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.CreditCardNo, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.CreditCardNo, new { htmlAttributes = new { @class = "form-control numbersOnly", @placeholder = "Enter Card No" } })
+                                @Html.ValidationMessageFor(model => model.CreditCardNo)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="button" value="Save" class="btn btn-primary" id="reservationBtn" />
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+</div>
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Scripts/jquery.blockUI.js"></script>
+    <script src="~/Scripts/bootstrap-datetimepicker.js"></script>
+    <script src="~/Scripts/Hotel/HotelReservation.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(document).on("click", "#roomBookBtn", function () {
+                $('#myModal').modal('show');
+
+            });
+        });
+
+        $(".form_datetime").datetimepicker({
+            format: "yyyy-mm-dd",
+            autoclose: true,
+            todayBtn: false,
+            showMeridian: true,
+            initialDate: new Date(),
+            startView: 2,
+            minView: 2,
+            maxView: 4
+        });
+    </script>
+}

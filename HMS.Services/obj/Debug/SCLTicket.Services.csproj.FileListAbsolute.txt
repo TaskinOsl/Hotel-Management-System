@@ -1,0 +1,58 @@
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\Services.SCLTicket.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\Services.SCLTicket.pdb
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\Dao.SCLTicket.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\FluentNHibernate.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\Iesi.Collections.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\Model.SCLTicket.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\NHibernate.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\Model.SCLTicket.pdb
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\Dao.SCLTicket.pdb
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\FluentNHibernate.pdb
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\FluentNHibernate.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\Iesi.Collections.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\NHibernate.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\obj\Debug\SCLTicket.Services.csprojResolveAssemblyReference.cache
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\obj\Debug\Services.SCLTicket.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Services\obj\Debug\Services.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\Services.SCLTicket.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\Services.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\Dao.SCLTicket.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\FluentNHibernate.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\Iesi.Collections.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\Model.SCLTicket.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\NHibernate.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\Model.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\Dao.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\FluentNHibernate.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\FluentNHibernate.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\Iesi.Collections.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\NHibernate.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Services\obj\Debug\Services.SCLTicket.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Services\obj\Debug\Services.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Services\obj\Debug\SCLTicket.Services.csprojAssemblyReference.cache
+E:\Freelancing\HMS\HMS\SCLTicket.Services\obj\Debug\SCLTicket.Services.csproj.CoreCompileInputs.cache
+E:\Freelancing\HMS\HMS\SCLTicket.Services\obj\Debug\SCLTicket.Services.csproj.CopyComplete
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\Services.SCLTicket.dll
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\Services.SCLTicket.pdb
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\Dao.SCLTicket.dll
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\FluentNHibernate.dll
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\Iesi.Collections.dll
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\Model.SCLTicket.dll
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\NHibernate.dll
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\Model.SCLTicket.pdb
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\Dao.SCLTicket.pdb
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\FluentNHibernate.pdb
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\FluentNHibernate.xml
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\Iesi.Collections.xml
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\NHibernate.xml
+G:\Project Source\HMS\SCLTicket.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\Project Source\HMS\SCLTicket.Services\obj\Debug\SCLTicket.Services.csprojAssemblyReference.cache
+G:\Project Source\HMS\SCLTicket.Services\obj\Debug\SCLTicket.Services.csproj.CoreCompileInputs.cache
+G:\Project Source\HMS\SCLTicket.Services\obj\Debug\SCLTicket.Services.csproj.CopyComplete
+G:\Project Source\HMS\SCLTicket.Services\obj\Debug\Services.SCLTicket.dll
+G:\Project Source\HMS\SCLTicket.Services\obj\Debug\Services.SCLTicket.pdb

@@ -1,0 +1,16 @@
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.BusinessModel\bin\Debug\Model.SCLTicket.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.BusinessModel\bin\Debug\Model.SCLTicket.pdb
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.BusinessModel\obj\Debug\Model.SCLTicket.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.BusinessModel\obj\Debug\Model.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.BusinessModel\bin\Debug\Model.SCLTicket.dll
+E:\Freelancing\HMS\HMS\SCLTicket.BusinessModel\bin\Debug\Model.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.BusinessModel\obj\Debug\Model.SCLTicket.dll
+E:\Freelancing\HMS\HMS\SCLTicket.BusinessModel\obj\Debug\Model.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.BusinessModel\obj\Debug\SCLTicket.BusinessModel.csprojAssemblyReference.cache
+E:\Freelancing\HMS\HMS\SCLTicket.BusinessModel\obj\Debug\SCLTicket.BusinessModel.csproj.CoreCompileInputs.cache
+G:\Project Source\HMS\SCLTicket.BusinessModel\bin\Debug\Model.SCLTicket.dll
+G:\Project Source\HMS\SCLTicket.BusinessModel\bin\Debug\Model.SCLTicket.pdb
+G:\Project Source\HMS\SCLTicket.BusinessModel\obj\Debug\SCLTicket.BusinessModel.csprojAssemblyReference.cache
+G:\Project Source\HMS\SCLTicket.BusinessModel\obj\Debug\SCLTicket.BusinessModel.csproj.CoreCompileInputs.cache
+G:\Project Source\HMS\SCLTicket.BusinessModel\obj\Debug\Model.SCLTicket.dll
+G:\Project Source\HMS\SCLTicket.BusinessModel\obj\Debug\Model.SCLTicket.pdb

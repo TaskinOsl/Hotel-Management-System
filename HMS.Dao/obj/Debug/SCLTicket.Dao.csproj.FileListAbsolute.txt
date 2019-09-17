@@ -1,0 +1,52 @@
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\bin\Debug\Dao.SCLTicket.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\bin\Debug\Dao.SCLTicket.pdb
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\bin\Debug\FluentNHibernate.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\bin\Debug\Iesi.Collections.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\bin\Debug\Model.SCLTicket.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\bin\Debug\NHibernate.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\bin\Debug\Model.SCLTicket.pdb
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\bin\Debug\FluentNHibernate.pdb
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\bin\Debug\FluentNHibernate.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\bin\Debug\Iesi.Collections.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\bin\Debug\NHibernate.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\obj\Debug\SCLTicket.Dao.csprojResolveAssemblyReference.cache
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\obj\Debug\Dao.SCLTicket.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Dao\obj\Debug\Dao.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\bin\Debug\Dao.SCLTicket.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\bin\Debug\Dao.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\bin\Debug\FluentNHibernate.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\bin\Debug\Iesi.Collections.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\bin\Debug\Model.SCLTicket.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\bin\Debug\NHibernate.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\bin\Debug\Model.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\bin\Debug\FluentNHibernate.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\bin\Debug\FluentNHibernate.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\bin\Debug\Iesi.Collections.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\bin\Debug\NHibernate.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\obj\Debug\Dao.SCLTicket.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\obj\Debug\Dao.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\obj\Debug\SCLTicket.Dao.csprojAssemblyReference.cache
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\obj\Debug\SCLTicket.Dao.csproj.CoreCompileInputs.cache
+E:\Freelancing\HMS\HMS\SCLTicket.Dao\obj\Debug\SCLTicket.Dao.csproj.CopyComplete
+G:\Project Source\HMS\SCLTicket.Dao\bin\Debug\Dao.SCLTicket.dll
+G:\Project Source\HMS\SCLTicket.Dao\bin\Debug\Dao.SCLTicket.pdb
+G:\Project Source\HMS\SCLTicket.Dao\bin\Debug\FluentNHibernate.dll
+G:\Project Source\HMS\SCLTicket.Dao\bin\Debug\Iesi.Collections.dll
+G:\Project Source\HMS\SCLTicket.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\Project Source\HMS\SCLTicket.Dao\bin\Debug\Model.SCLTicket.dll
+G:\Project Source\HMS\SCLTicket.Dao\bin\Debug\NHibernate.dll
+G:\Project Source\HMS\SCLTicket.Dao\bin\Debug\Model.SCLTicket.pdb
+G:\Project Source\HMS\SCLTicket.Dao\bin\Debug\FluentNHibernate.pdb
+G:\Project Source\HMS\SCLTicket.Dao\bin\Debug\FluentNHibernate.xml
+G:\Project Source\HMS\SCLTicket.Dao\bin\Debug\Iesi.Collections.xml
+G:\Project Source\HMS\SCLTicket.Dao\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\Project Source\HMS\SCLTicket.Dao\bin\Debug\NHibernate.xml
+G:\Project Source\HMS\SCLTicket.Dao\obj\Debug\SCLTicket.Dao.csprojAssemblyReference.cache
+G:\Project Source\HMS\SCLTicket.Dao\obj\Debug\SCLTicket.Dao.csproj.CoreCompileInputs.cache
+G:\Project Source\HMS\SCLTicket.Dao\obj\Debug\SCLTicket.Dao.csproj.CopyComplete
+G:\Project Source\HMS\SCLTicket.Dao\obj\Debug\Dao.SCLTicket.dll
+G:\Project Source\HMS\SCLTicket.Dao\obj\Debug\Dao.SCLTicket.pdb

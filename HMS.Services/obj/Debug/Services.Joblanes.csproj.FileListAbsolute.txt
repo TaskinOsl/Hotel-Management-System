@@ -1,0 +1,8 @@
+E:\Small Software Developed by DremersHome\Web.Joblanes\Services.Joblanes\bin\Debug\Services.Joblanes.dll
+E:\Small Software Developed by DremersHome\Web.Joblanes\Services.Joblanes\bin\Debug\Services.Joblanes.pdb
+E:\Small Software Developed by DremersHome\Web.Joblanes\Services.Joblanes\obj\Debug\Services.Joblanes.dll
+E:\Small Software Developed by DremersHome\Web.Joblanes\Services.Joblanes\obj\Debug\Services.Joblanes.pdb
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\Services.Joblanes.dll
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\bin\Debug\Services.Joblanes.pdb
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\obj\Debug\Services.Joblanes.dll
+E:\Small Software Developed by DremersHome\Joblanes\Services.Joblanes\obj\Debug\Services.Joblanes.pdb

@@ -1,0 +1,9 @@
+E:\Small Software Developed by DremersHome\Web.Joblanes\Dao.Joblanes\bin\Debug\Dao.Joblanes.dll
+E:\Small Software Developed by DremersHome\Web.Joblanes\Dao.Joblanes\bin\Debug\Dao.Joblanes.pdb
+E:\Small Software Developed by DremersHome\Web.Joblanes\Dao.Joblanes\obj\Debug\Dao.Joblanes.csprojResolveAssemblyReference.cache
+E:\Small Software Developed by DremersHome\Web.Joblanes\Dao.Joblanes\obj\Debug\Dao.Joblanes.dll
+E:\Small Software Developed by DremersHome\Web.Joblanes\Dao.Joblanes\obj\Debug\Dao.Joblanes.pdb
+E:\Small Software Developed by DremersHome\Joblanes\Dao.Joblanes\bin\Debug\Dao.Joblanes.dll
+E:\Small Software Developed by DremersHome\Joblanes\Dao.Joblanes\bin\Debug\Dao.Joblanes.pdb
+E:\Small Software Developed by DremersHome\Joblanes\Dao.Joblanes\obj\Debug\Dao.Joblanes.dll
+E:\Small Software Developed by DremersHome\Joblanes\Dao.Joblanes\obj\Debug\Dao.Joblanes.pdb

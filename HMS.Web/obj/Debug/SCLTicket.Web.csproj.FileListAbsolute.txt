@@ -1,0 +1,214 @@
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Web.SCLTicket.dll.config
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Web.SCLTicket.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Web.SCLTicket.pdb
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Antlr3.Runtime.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\EntityFramework.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\EntityFramework.SqlServer.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\FluentNHibernate.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Iesi.Collections.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\log4net.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Security.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Model.SCLTicket.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Newtonsoft.Json.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\NHibernate.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Owin.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Services.SCLTicket.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\System.Web.Helpers.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\System.Web.Mvc.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\System.Web.Optimization.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\System.Web.Razor.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\System.Web.WebPages.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\System.Web.WebPages.Razor.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\WebGrease.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Dao.SCLTicket.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Model.SCLTicket.pdb
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Services.SCLTicket.pdb
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\FluentNHibernate.pdb
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\FluentNHibernate.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Iesi.Collections.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\log4net.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\NHibernate.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\System.Web.Helpers.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\System.Web.Mvc.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\System.Web.Optimization.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\System.Web.Razor.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\System.Web.WebPages.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\System.Web.WebPages.Razor.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Antlr3.Runtime.pdb
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Newtonsoft.Json.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\EntityFramework.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\EntityFramework.SqlServer.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Security.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\bin\Dao.SCLTicket.pdb
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\obj\Debug\SCLTicket.Web.csprojResolveAssemblyReference.cache
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\obj\Debug\Web.SCLTicket.dll
+E:\Freelancing\Ticketing System\Joblanes\SCLTicket.Web\obj\Debug\Web.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Web.SCLTicket.dll.config
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Web.SCLTicket.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Web.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Antlr3.Runtime.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\EntityFramework.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\EntityFramework.SqlServer.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\FluentNHibernate.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Iesi.Collections.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\log4net.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Model.SCLTicket.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Newtonsoft.Json.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\NHibernate.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Owin.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Services.SCLTicket.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\System.Web.Helpers.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\System.Web.Mvc.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\System.Web.Optimization.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\System.Web.Razor.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\System.Web.WebPages.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\System.Web.WebPages.Razor.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\WebGrease.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Dao.SCLTicket.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Model.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Services.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\FluentNHibernate.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\FluentNHibernate.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Iesi.Collections.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\log4net.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\NHibernate.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\System.Web.Helpers.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\System.Web.Mvc.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\System.Web.Optimization.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\System.Web.Razor.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\System.Web.WebPages.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\System.Web.WebPages.Razor.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Antlr3.Runtime.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Newtonsoft.Json.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\EntityFramework.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\EntityFramework.SqlServer.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Freelancing\HMS\HMS\SCLTicket.Web\bin\Dao.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Web\obj\Debug\Web.SCLTicket.dll
+E:\Freelancing\HMS\HMS\SCLTicket.Web\obj\Debug\Web.SCLTicket.pdb
+E:\Freelancing\HMS\HMS\SCLTicket.Web\obj\Debug\SCLTicket.Web.csprojAssemblyReference.cache
+E:\Freelancing\HMS\HMS\SCLTicket.Web\obj\Debug\SCLTicket.Web.csproj.CoreCompileInputs.cache
+E:\Freelancing\HMS\HMS\SCLTicket.Web\obj\Debug\SCLTicket.Web.csproj.CopyComplete
+G:\Project Source\HMS\SCLTicket.Web\bin\Web.SCLTicket.dll.config
+G:\Project Source\HMS\SCLTicket.Web\bin\Web.SCLTicket.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Web.SCLTicket.pdb
+G:\Project Source\HMS\SCLTicket.Web\bin\Antlr3.Runtime.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\EntityFramework.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\EntityFramework.SqlServer.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\FluentNHibernate.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Iesi.Collections.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\log4net.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Google.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Web.Infrastructure.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Model.SCLTicket.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Newtonsoft.Json.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\NHibernate.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Owin.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Services.SCLTicket.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\System.Web.Helpers.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\System.Web.Mvc.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\System.Web.Optimization.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\System.Web.Razor.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\System.Web.WebPages.Deployment.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\System.Web.WebPages.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\System.Web.WebPages.Razor.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\WebGrease.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Dao.SCLTicket.dll
+G:\Project Source\HMS\SCLTicket.Web\bin\Model.SCLTicket.pdb
+G:\Project Source\HMS\SCLTicket.Web\bin\Services.SCLTicket.pdb
+G:\Project Source\HMS\SCLTicket.Web\bin\FluentNHibernate.pdb
+G:\Project Source\HMS\SCLTicket.Web\bin\FluentNHibernate.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Iesi.Collections.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\log4net.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\NHibernate.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\System.Web.Helpers.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\System.Web.Mvc.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\System.Web.Optimization.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\System.Web.Razor.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\System.Web.WebPages.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\System.Web.WebPages.Deployment.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\System.Web.WebPages.Razor.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Antlr3.Runtime.pdb
+G:\Project Source\HMS\SCLTicket.Web\bin\Newtonsoft.Json.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\EntityFramework.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\EntityFramework.SqlServer.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Google.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Project Source\HMS\SCLTicket.Web\bin\Dao.SCLTicket.pdb
+G:\Project Source\HMS\SCLTicket.Web\obj\Debug\SCLTicket.Web.csprojAssemblyReference.cache
+G:\Project Source\HMS\SCLTicket.Web\obj\Debug\SCLTicket.Web.csproj.CoreCompileInputs.cache
+G:\Project Source\HMS\SCLTicket.Web\obj\Debug\SCLTicket.Web.csproj.CopyComplete
+G:\Project Source\HMS\SCLTicket.Web\obj\Debug\Web.SCLTicket.dll
+G:\Project Source\HMS\SCLTicket.Web\obj\Debug\Web.SCLTicket.pdb
